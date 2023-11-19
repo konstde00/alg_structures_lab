@@ -7,7 +7,7 @@
 2.  Розв’язання системи лінійних порівнянь за модулем (китайська теорема про
       лишки).
 
-   Розв'язок у класі [ChineseReminderTheorem](src/main/java/com/konstde00/ChineseReminderTheorem.java)
+   Розв'язок у класі [ChineseReminderTheorem](src/main/java/com/konstde00/ChineseRemainderTheorem.java)
 
 3.  Обчислення символів Лежандра та Якобі.
 
@@ -41,4 +41,4 @@
 
 9.  Криптосистема Ель-Гамаля над еліптичними кривими.
 
-Розв'язок у класі [ElipticCurve](src/main/java/com/konstde00/ElipticCurve.java)
+Розв'язок у класі [ElipticCurve](src/main/java/com/konstde00/EllipticCurve.java)
